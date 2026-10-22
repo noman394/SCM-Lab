@@ -1,1 +1,3 @@
 this lab covers git work flow and comments.
+
+commts create a record of project changes
